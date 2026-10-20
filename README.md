@@ -1,4 +1,4 @@
-# Grocery List 🛒
+# Grocery List 
 
 A simple and interactive grocery shopping list application built with React and Vite. The app helps users organize their shopping items and keep track of what they need to buy.
 
