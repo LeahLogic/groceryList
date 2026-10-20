@@ -41,7 +41,7 @@ export class GroceryList extends Component {
             <div>
                 <form onSubmit={this.onFormSubmit}>
                 <div className='container'>
-                   <input tipe="text"
+                   <input type="text"
                     placeholder="What do you want to buy today?"
                     onChange={(e) => {this.onChangeEvent(e.target.value)}}
                     value={this.state.userInput}/>
